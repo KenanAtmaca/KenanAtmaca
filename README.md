@@ -17,5 +17,6 @@ I am 6 years iOS & Swift developer. Before that, I had experience in many softwa
 * [English Blog](https://ios.cafe)
 * [Turkish Blog](https://kenanatmaca.com)
   
-- 💼 any freelance work? do reach, [email](mailto:mail.kenanatmaca@gmail.com)
-- 💬 ask me about anything, i am happy to help;
+- 💼 Any freelance work? do reach, [email](mailto:mail.kenanatmaca@gmail.com)
+- 💬 Ask me about anything, i am happy to help;
+- ✨ Thank you for visiting my profile.
