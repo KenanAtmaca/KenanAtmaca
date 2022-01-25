@@ -12,7 +12,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=KenanAtmaca.KenanAtmaca)
 
-I am 6 years iOS & Swift developer. Before that, I had experience in many software languages and 1.5 years on the web. Since I stepped into the iOS world, there are +40 market applications, as well as the development process of large-scale companies’ applications, as well as many applications that I have written for different customers. Apart from these, I develop myself with +40 Github repos and +600 blog posts and provide resources to other developers. I will always continue to work for better quality and better. I see software not as a job, but as a passion and a great pleasure.
+Hello, I am an iOS developer who has been developing mobile applications for 7 years. Before that, I had experience in many software languages and 1.5 years in php. Since I stepped into the iOS world, there are +40 market applications, as well as the development process of large-scale companies' applications, as well as many applications that I have written for different customers. Apart from these, I develop myself with +40 Github repos and +600 blog posts and provide resources to other developers. I will always continue to work for better quality and better. I see software not as a job, but as a passion and a great pleasure.
 
 * [English Blog](https://ios.cafe)
 * [Turkish Blog](https://kenanatmaca.com)
