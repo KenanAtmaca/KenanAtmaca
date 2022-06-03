@@ -1,4 +1,4 @@
-### Heey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Heey there 👋🏻
 
 <a href="https://apps.apple.com/tr/developer/kenan-atmaca/id1005261563">
   <img align="left" alt="Kenan Atmaca | AppStore" width="22px" src="https://camo.githubusercontent.com/8224804e28d6c0e0ff71792abdd5c129578f42d497bba17734f2e21b1cf134e6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6170706c652e737667" />
